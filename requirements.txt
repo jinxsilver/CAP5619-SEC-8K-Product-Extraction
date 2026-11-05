@@ -1,0 +1,6 @@
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.3
+pandas>=2.2
+spacy>=3.8
+jupyter

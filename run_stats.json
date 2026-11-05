@@ -1,0 +1,31 @@
+{
+  "model": "llama3.1:8b",
+  "companies_processed": 18,
+  "companies_with_products": [
+    "AAPL",
+    "ADBE",
+    "AMD",
+    "AMZN",
+    "CRM",
+    "CSCO",
+    "GOOGL",
+    "IBM",
+    "INTC",
+    "META",
+    "MSFT",
+    "MU",
+    "NOW",
+    "NVDA",
+    "ORCL"
+  ],
+  "filings_listed": 354,
+  "filings_downloaded": 212,
+  "filings_sent_to_llm": 98,
+  "filings_with_products": 48,
+  "products_rejected_validation": 144,
+  "llm_seconds": 0.0,
+  "llm_calls_uncached": 0,
+  "started": "2026-11-04T18:19:36",
+  "rows_written": 110,
+  "finished": "2026-11-04T18:20:27"
+}

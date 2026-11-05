@@ -1,0 +1,18 @@
+# downloaded SEC filings and saved LLM answers (regenerated on first run)
+cache/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+
+# run logs
+run_log*.txt
+
+# reports are submitted separately
+*.docx
+*.pdf
+~$*
+
+# macOS
+.DS_Store
